@@ -120,6 +120,7 @@ ec2-inventory-dashboard/
   ]
 }
 
+```
 
 2. Create IAM Role
 
@@ -187,6 +188,8 @@ npm start
 # Terminal 2
 cd frontend
 npm run dev
+
+
 
 
 
